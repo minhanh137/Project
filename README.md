@@ -1,4 +1,4 @@
-# Project Task Manager - Quản Lý Công Việc
+# Task Manager - Quản Lý Công Việc
 
 ## 1. Giới thiệu
 Task Manager là dự án quản lý công việc cá nhân,
@@ -12,7 +12,7 @@ công việc cần thực hiện hằng ngày.
 - Đánh dấu công việc đã hoàn thành.
 - Theo dõi danh sách công việc.
 
-## 3. Công nghệ sử dụng
+## 3. Công nghệ dự kiến sử dụng
 - HTML
 - CSS
 - JavaScript
@@ -30,6 +30,4 @@ cá nhân một cách hiệu quả.
 - Họ tên: Nguyễn Thị Minh Anh
 - MSV: 2451160744
 
-## 7. Trạng thái dự án
-Chưa phát triển.
 
